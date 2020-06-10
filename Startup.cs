@@ -32,7 +32,7 @@ namespace valentinesday_api
                 c.SwaggerDoc("api-gabi", new OpenApiInfo()
                 {
                     Title = "API Dias do Namorados - Gabriela <3",
-                    Description = "",
+                    Description = "Presente de dias dos namorados para minha mulher pequena, maravilhosa, cabeçuda e apaixonante",
                     Version = "1",
                     Contact = new OpenApiContact() { Name = "Thomas Mendes", Email = "tmendes.dev@gmail.com", Url = new Uri("https://www.linkedin.com/in/thomasmendes/") }
                 });
